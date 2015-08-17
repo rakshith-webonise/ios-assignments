@@ -1,0 +1,15 @@
+//
+//  CommonConstants.pch
+//  AssignmentEight
+//
+//  Created by weboniselab1 on 13/08/2015.
+//  Copyright (c) 2015 weboniselab. All rights reserved.
+//
+
+#ifndef AssignmentEight_CommonConstants_pch
+#define AssignmentEight_CommonConstants_pch
+
+// Include any system framework and library headers here that should be included in all compilation units.
+// You will also need to set the Prefix Header build setting of one or more of your targets to reference this file.
+#import "CommonFilesImport.h"
+#endif
